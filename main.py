@@ -11,8 +11,8 @@ class MainWindow(QMainWindow):
     self.id = 0
 
     self.tb_car.setColumnWidth(0, 50)
-    self.tb_car.setColumnWidth(1, 150)
-    self.tb_car.setColumnWidth(2, 150)
+    self.tb_car.setColumnWidth(1, 180)
+    self.tb_car.setColumnWidth(2, 180)
     self.tb_car.setColumnWidth(3, 100)
     self.tb_car.setColumnWidth(4, 180)
 
